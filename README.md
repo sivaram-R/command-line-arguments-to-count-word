@@ -40,7 +40,9 @@ f.close
 ```
 ### OUTPUT:
 
+![co](https://user-images.githubusercontent.com/121165794/214798962-cd602bf2-979d-444b-9e1f-3360f8eabba0.png)
 
+![co1](https://user-images.githubusercontent.com/121165794/214798973-474664af-b844-40ff-b420-4165bc362e9c.png)
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
