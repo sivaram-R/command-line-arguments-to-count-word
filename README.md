@@ -6,17 +6,22 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
+Create two files with extension .py and .txt
 
-### Step 2: 
- 
-### Step 3: 
+### Step 2:
+Import sys in the file with .py extension
 
-### Step 4:  
+### Step 3:
+Give some input words in the file with .txt extension
 
-### Step 5: 
+### Step 4:
+Save the files
 
-### Step 6: 
+### Step 5:
+Open terminal and choose Command prompt.
 
+### Step 6:
+Run the program and get the output
 ## PROGRAM:
 
 ### OUTPUT:
