@@ -23,7 +23,21 @@ Open terminal and choose Command prompt.
 ### Step 6:
 Run the program and get the output
 ## PROGRAM:
-
+##student name:sivaram R
+##reference no:22008680
+```
+import sys
+count = {}
+with open(sys.argv[1], 'r') as f:
+    for line in f:
+        for word in line.split():
+            if word not in count:
+                count[word]=1
+            else:
+                count[word]+=1
+print(count)
+f.close
+```
 ### OUTPUT:
 
 
